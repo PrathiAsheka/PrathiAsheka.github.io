@@ -43,30 +43,35 @@ Adaptability & Fast Learning
 Applied clustering techniques to analyze student study patterns
 Compared self-study vs lecture effectiveness
 Used algorithms like K-Means, DBSCAN, and Hierarchical Clustering
+
 📱 2. Quotes Collection App
 Built using React Native + TypeScript
 Features:
 Add & categorize quotes
 Favorite quotes system
 User-friendly UI
+
 📧 3. Smart Email Management System (Ongoing)
 ML-based system to prioritize emails
 Features:
 Email classification
 Priority filtering
 AI-powered suggestions
+
 📊 4. Data Analysis Project (R)
 Cleaned and analyzed real-world dataset
 Visualized patterns such as delay trends
 Used R libraries like:
 ggplot2
 dplyr
+
 🛒 5. E-Commerce Bookstore Website
 Developed a responsive web application
 Features:
 Product listing
 User-friendly navigation
 Checkout system
+
 🤖 6. AI Study Guide Chatbot
 AI-based chatbot to assist students
 Helps with learning and answering study-related questions
